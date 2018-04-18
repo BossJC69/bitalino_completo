@@ -1,0 +1,2 @@
+include ':app', ':apibitalinoworkshop'
+project(':apibitalinoworkshop').projectDir = new File('apibitalino')
